@@ -1,4 +1,4 @@
-from User_data import get_info as gi
+from user_data import get_info as gi
 
 info = gi()
 def writing_scv ():

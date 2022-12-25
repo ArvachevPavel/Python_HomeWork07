@@ -5,6 +5,7 @@ def get_info ():
     first_name = input('Введите имя: ')
     info.append(first_name)
     phone_number = ''
+    phone_number = input('Введите номер телефона: ')
     info.append(phone_number)
     description = input('Введите описание: ')
     info.append(description)
